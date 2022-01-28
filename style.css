@@ -5,6 +5,9 @@ body{
 h1{
   font-size: 35px;
 }
+h3{
+  font-weight: 700px;
+}
 .flexible-container{
   display: flex;
 }
@@ -13,11 +16,10 @@ h1{
 }
 .halfwidth img{
   width: 50%;
-  padding-left: 80px;
 }
 .intro{
   padding-top: 65px;
-  padding-left: 120px;
+  padding-left: 150px;
 }
 #intro-heading{
   padding-left: 8px;
@@ -31,4 +33,35 @@ h1{
   color: white;
   background-color: #FF5959;
   padding: 10px 30px;
+}
+#experiences-heading{
+  text-align: center;
+  padding-top: 20px;
+  
+}
+.exp-boxes{
+  padding-left: 80px;
+  padding-right: 80px;
+  margin-bottom: 150px;
+}
+.exp-item{
+  width: 33%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 20px;
+}
+.exp-boxes img{
+width: 40%;
+padding-top: 20px;
+}
+#left-box{
+  background-color: #EDF5F6;
+}
+#middle-box{
+  background-color: #FFEEEE;
+}
+#right-box{
+  background-color: #FFF4D6;
 }
