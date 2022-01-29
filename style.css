@@ -8,6 +8,9 @@ h1{
 h3{
   font-weight: 700px;
 }
+h2{
+  font-weight: 700px;
+}
 .flexible-container{
   display: flex;
 }
@@ -40,17 +43,18 @@ h3{
   
 }
 .exp-boxes{
-  padding-left: 80px;
-  padding-right: 80px;
-  margin-bottom: 150px;
+  padding-left: 110px;
+  padding-right: 110px;
+  margin-bottom: 100px;
 }
 .exp-item{
   width: 33%;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
   padding-left: 30px;
   padding-right: 30px;
   border-radius: 20px;
+  text-align: center;
 }
 .exp-boxes img{
 width: 40%;
@@ -64,4 +68,14 @@ padding-top: 20px;
 }
 #right-box{
   background-color: #FFF4D6;
+}
+.learn-more{
+  padding-left: 150px;
+  margin-bottom: 130px;
+}
+.learnmore-img{
+  margin-right: -230px;
+}
+.limit-text{
+
 }
