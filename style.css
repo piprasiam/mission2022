@@ -21,7 +21,7 @@ h4{
 .halfwidth img{
   width: 50%;
 }
-.intro{
+#intro{
   padding-top: 65px;
   padding-left: 150px;
 }
@@ -43,7 +43,7 @@ h4{
   padding-top: 20px;
   
 }
-.exp-boxes{
+#exp-boxes{
   padding-left: 110px;
   padding-right: 110px;
   margin-bottom: 100px;
@@ -57,7 +57,7 @@ h4{
   border-radius: 20px;
   text-align: center;
 }
-.exp-boxes img{
+#exp-boxes img{
 width: 40%;
 padding-top: 20px;
 }
@@ -70,7 +70,7 @@ padding-top: 20px;
 #right-box{
   background-color: #FFF4D6;
 }
-.learn-more{
+#learn-more{
   background-image: url(images/shapes/shape-1.png);
   background-repeat: no-repeat;
   background-position: left;
@@ -80,15 +80,15 @@ padding-top: 20px;
   padding-left: 140px;
   margin-bottom: 80px;
 }
-.learnmore-img{
+#learnmore-img{
   margin-right: -230px;
   margin-left: -70px;
 }
-.limit-text{
+#grow-text{
   padding-top: 30px;
   padding-left: 30px;
 }
-.community{
+#community{
   background-image: url(images/shapes/shape-1.png);
   background-repeat: no-repeat;
   background-position:right bottom;
@@ -99,11 +99,11 @@ padding-top: 20px;
   padding-left: 75px;
   padding-bottom: -5%;
 }
-.community-text{
+#community-text{
   padding-top: 50px;
   margin-right: -1500px;
 }
-.community-img{
+#community-img{
   width: 50%;
   margin-top: 10px;
   margin-left: 1600px;
@@ -116,7 +116,7 @@ padding-top: 20px;
   text-align: center;
   margin-bottom: 100px;
 }
-.contact-area{
+#contact-area{
   margin-right: 160px;
   margin-left: 75px;
   margin-bottom: 100px;
@@ -124,20 +124,20 @@ padding-top: 20px;
   padding-left: 75px;
   padding-bottom: -5%;
 }
-.contact-form{
+#contact-form{
   padding-left: 50px;
 }
-.contact-name{
+#contact-name{
   margin-bottom: 20px;
   height: 35px;
   width: 580px;
 }
-.contact-email{
+#contact-email{
   margin-bottom: 20px;
   height: 35px;
   width: 580px;
 }
-.contact-message{
+#contact-message{
   height: 160px;
   width: 580px;
 }
@@ -155,7 +155,7 @@ padding-top: 20px;
   margin-top: 20px;
   margin-left: 240px;
 }
-.footer{
+#footer{
   padding-top: 20px;
   padding-bottom: 20px;
   background-color: #0B0D17;
